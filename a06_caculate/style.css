@@ -1,0 +1,28 @@
+table {
+    background-color: cadetblue;
+    margin: auto;
+    border-radius: 4px;
+}
+
+.btn {
+    width: 80px;
+    height: 80px;
+    border-radius: 8px;
+    background-color: #d0c9c1;
+}
+
+#result {
+    width: 413px;
+}
+
+#result2 {
+    width: 413px !important;
+}
+
+input#equ {
+    height: 165px;
+}
+
+input#zero {
+    width: 163px;
+}

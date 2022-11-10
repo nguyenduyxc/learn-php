@@ -1,0 +1,39 @@
+- la cac mau dl nho , dc luu ben client
+- dl kieu: key - value
+- ben js cx co
+- gan giong localstorage
+  + giong: luu tru quan ly tren trinh duyet web
+           deu dang key - value
+  + khac: 
+    cookie: . thiet lap dc tgian ton tai(s)
+            . co the them sua xoa bang js(frontend) hoac server(backend) 
+            . khi gui yeu cau len server (request URL)-> gui toan bo cookie tuong ung 
+            . data luu tru it(4kb)
+    localstorage .tgian vinh vien(cho den khi ndc xoa )
+                 . them sua xoa bang js
+                 . data lon (5MB)
+- thuong dung cho bang bam, gio hang  
+
+
+
+array(1) {
+  ["Phpstorm-214307fd"]=>
+  string(36) "cbbc44cb-86c7-44ec-af4b-b0de9ae9ce02"
+}
+
+sau khi set cookie
+
+array(6) {
+  ["Phpstorm-214307fd"]=>
+  string(36) "cbbc44cb-86c7-44ec-af4b-b0de9ae9ce02"
+  ["fullname"]=>
+  string(21) "Nguyễn Đức Duy 2"
+  ["username"]=>
+  string(10) "duyduyerty"
+  ["email"]=>
+  string(15) "admin@gmail.com"
+  ["password"]=>
+  string(3) "abc"
+  ["phone"]=>
+  string(10) "0967531003"
+}

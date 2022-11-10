@@ -1,0 +1,9 @@
+- xay dung form, tinh toan dc tren form
+- khi nhan vao nut nao do 
++  a -> ?? 
++  b -> ??
++  phep tinh -> ??
++ Anh xa tuong ung len form 
+- vs php (sd get/posts)
+- tinh toan trong form -> chuyen ra phan hien thi 
+? co van de voi dau phay 

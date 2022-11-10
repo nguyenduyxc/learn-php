@@ -1,0 +1,7 @@
+- Khai niem
+    + luu tru dl dang array: key=>value
+    + luu duoi server, ko nhu cookie(trinh duyet web)
+    + tgian ton tai ngan: khoang 2p (sau 2 phut ko co yeu cau gui len server se bi xoa di )
+- Quan ly session tren server(cua client nao)
+    + dua tren cookie(PHPSESSID) dc sinh ra san tren moi client 
+- ung dung: xac nhan tai khoan, gio hang, 
